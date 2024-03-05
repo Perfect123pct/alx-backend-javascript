@@ -1,0 +1,6 @@
+sync function someOtherFunction() {
+  const result = await asyncUploadUser();
+  console.log(result);
+}
+
+someOtherFunction();
