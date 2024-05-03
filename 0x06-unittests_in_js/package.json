@@ -1,0 +1,17 @@
+{
+  "name": "task_0",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "dependencies": {
+    "chai": "^5.1.0",
+    "latest": "^0.2.0",
+    "mocha": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Perfect123pct/alx-backend-javascript"
+  },
+  "license": "MIT"
+}
